@@ -141,7 +141,7 @@ nav{
     padding: 71px 0 65px 0;
 }
 
-.advantage .text{
+.label{
     text-align: center;
     width: 112px;
     height: 24px;
@@ -154,7 +154,7 @@ nav{
     margin: 0 auto;
 }
 
-.advantage .advantage_header{
+.title{
     color: #222222;
     font-size: 38px;
     font-weight: 700;
